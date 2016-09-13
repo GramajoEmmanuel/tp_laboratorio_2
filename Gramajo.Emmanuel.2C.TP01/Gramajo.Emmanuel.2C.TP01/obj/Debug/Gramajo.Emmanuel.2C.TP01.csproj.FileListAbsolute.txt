@@ -1,0 +1,11 @@
+c:\users\amaranth\documents\visual studio 2015\Projects\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\bin\Debug\Gramajo.Emmanuel.2C.TP01.exe.config
+c:\users\amaranth\documents\visual studio 2015\Projects\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\bin\Debug\Gramajo.Emmanuel.2C.TP01.exe
+c:\users\amaranth\documents\visual studio 2015\Projects\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\bin\Debug\Gramajo.Emmanuel.2C.TP01.pdb
+c:\users\amaranth\documents\visual studio 2015\Projects\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\obj\Debug\Gramajo.Emmanuel.2C.TP01.csprojResolveAssemblyReference.cache
+c:\users\amaranth\documents\visual studio 2015\Projects\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\obj\Debug\Gramajo.Emmanuel._2C.TP01.Form1.resources
+c:\users\amaranth\documents\visual studio 2015\Projects\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\obj\Debug\Gramajo.Emmanuel.2C.TP01.csproj.GenerateResource.Cache
+c:\users\amaranth\documents\visual studio 2015\Projects\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\obj\Debug\Gramajo.Emmanuel.2C.TP01.exe
+c:\users\amaranth\documents\visual studio 2015\Projects\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\obj\Debug\Gramajo.Emmanuel.2C.TP01.pdb
+H:\Programacion 2\TP Calculadora (Windows Form)\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\bin\Debug\Gramajo.Emmanuel.2C.TP01.exe.config
+H:\Programacion 2\TP Calculadora (Windows Form)\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\obj\Debug\Gramajo.Emmanuel.2C.TP01.exe
+H:\Programacion 2\TP Calculadora (Windows Form)\Gramajo.Emmanuel.2C.TP01\Gramajo.Emmanuel.2C.TP01\obj\Debug\Gramajo.Emmanuel.2C.TP01.pdb
