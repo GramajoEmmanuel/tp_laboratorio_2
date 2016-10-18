@@ -33,3 +33,6 @@ C:\Users\Amaranth\Desktop\TP_2\Clase_12\bin\Debug\Clase_12.pdb
 C:\Users\Amaranth\Desktop\TP_2\Clase_12\bin\Debug\Clase_12_Library.dll
 C:\Users\Amaranth\Desktop\TP_2\Clase_12\bin\Debug\Clase_12_Library.pdb
 C:\Users\Amaranth\Desktop\TP_2\Clase_12\obj\Debug\Clase_12_Errores.csprojResolveAssemblyReference.cache
+C:\Users\Amaranth\Documents\Visual Studio 2015\Projects\Gramajo.Emmanuel.2C.TP02\Clase_12\bin\Debug\Clase_12.exe.config
+C:\Users\Amaranth\Documents\Visual Studio 2015\Projects\Gramajo.Emmanuel.2C.TP02\Clase_12\obj\Debug\Clase_12.exe
+C:\Users\Amaranth\Documents\Visual Studio 2015\Projects\Gramajo.Emmanuel.2C.TP02\Clase_12\obj\Debug\Clase_12.pdb
